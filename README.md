@@ -11,7 +11,7 @@ We many also collect installation and usage information, but none of the informa
 ### How do we use this information?
 
 The web server logs will be used for traffic analysis. 
-The names you enter for the high score lists in our apps are used for that purpose only. You are free to enter any handle you wish.
+The  infomation you choose for the high score lists in our apps are used for that purpose only. You are free to enter any handle you wish.
 
 ### Do we disclose or otherwise share information with third parties?
 
